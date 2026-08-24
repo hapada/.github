@@ -1,5 +1,5 @@
 # =============================================================================
-# Global .gitignore — SplendidCube workspace
+# Global .gitignore — HaPaDa workspace
 # -----------------------------------------------------------------------------
 # Source of truth: the `common-files` repo. `dev-env` syncs this file into every
 # project root and refreshes it on each update, so DO NOT edit it inside a
@@ -180,7 +180,7 @@ tmp/
 # -----------------------------------------------------------------------------
 # Local script cache  (managed by the shared makefile)
 # -----------------------------------------------------------------------------
-# `run-script` (in ~/.splendidcube/makefile.mk) downloads makefile scripts into
+# `run-script` (in ~/.hapada/makefile.mk) downloads makefile scripts into
 # scripts/<technology>/ on demand. The folder is kept (.gitkeep) but everything
 # downloaded into it is transient — never commit it.
 /scripts/*
